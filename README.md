@@ -1,4 +1,6 @@
-# Java MySQL Example
+# JavaMysqlExample
+
+This is an example project showing how to connect to MySQL in a Maven project.
 
 Build project.
 
