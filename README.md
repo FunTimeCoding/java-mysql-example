@@ -1,12 +1,12 @@
-# Java Mysql Example
+# Java MySQL Example
 
-Compile the program.
+Build project.
 
 ```sh
 mvn clean install
 ```
 
-Run the program.
+Run program.
 
 ```sh
 java -jar target/java-mysql-example-1.0-SNAPSHOT.jar
