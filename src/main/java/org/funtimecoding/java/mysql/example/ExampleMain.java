@@ -10,6 +10,7 @@ public class ExampleMain {
 
     public void run()
     {
+        // http://www.vogella.com/tutorials/MySQLJava/article.html
         System.out.println("hi");
     }
 }
